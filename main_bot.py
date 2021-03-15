@@ -73,6 +73,7 @@ def main():
 if __name__ == '__main__':
     #запускаем функцию def main
     main()
+bot.run(str(updater))
 
 
 
